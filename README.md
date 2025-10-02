@@ -9,7 +9,7 @@ It provides **clear, visual insights** into loan performance, repayments, and bo
 
 The project consists of **two main dashboards**: **Summary** and **Loan Overview**, each offering unique insights into the loan portfolio.  
 
-- **Dashboard**: High-level KPIs to monitor overall loan performance.  
+- **Summary**: High-level KPIs to monitor overall loan performance.  
 - **Loan Overview**: Detailed analysis of borrower trends and funding patterns.  
 
 ---
