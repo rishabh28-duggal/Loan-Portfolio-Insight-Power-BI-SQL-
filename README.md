@@ -7,7 +7,7 @@ It provides **clear, visual insights** into loan performance, repayments, and bo
 
 ## Project Highlights  
 
-The project consists of **two main dashboards**: **Dashboard** and **Loan Overview**, each offering unique insights into the loan portfolio.  
+The project consists of **two main dashboards**: **Summary** and **Loan Overview**, each offering unique insights into the loan portfolio.  
 
 - **Dashboard**: High-level KPIs to monitor overall loan performance.  
 - **Loan Overview**: Detailed analysis of borrower trends and funding patterns.  
@@ -16,7 +16,7 @@ The project consists of **two main dashboards**: **Dashboard** and **Loan Overvi
 
 ## Dashboards & Key Metrics  
 
-### **1. Dashboard**  
+### **1. Summary**  
 
 Provides a **snapshot of loan performance** with key metrics and status breakdowns.  
 
@@ -45,6 +45,10 @@ Focuses on **borrower trends and loan patterns** to help identify potential risk
 - **Loan Purpose & Grade** – Breakdown of loans by purpose and risk grade.  
 
 ---
+
+## Dashboard Visuals
+![Dashboard Preview](images/Dashboard.png)
+![Dashboard Preview](images/Loan%20Overview.png)
 
 ## Dataset Information  
 
