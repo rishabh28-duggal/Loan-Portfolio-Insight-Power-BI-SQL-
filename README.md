@@ -76,6 +76,11 @@ These SQL-powered analyses provided the **foundation for the interactive dashboa
 
 ---
 
-✅ **Conclusion:**  
+**Conclusion:**  
 This project demonstrates a **complete loan portfolio analysis workflow** using **SQL** for data extraction and **Power BI** for visualization.  
 It enables tracking of **loan performance, borrower behavior, and repayment trends**, making it a strong addition to a data analytics portfolio.
+
+---
+
+**Created by**
+Rishabh Duggal
